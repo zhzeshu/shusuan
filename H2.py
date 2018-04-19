@@ -21,7 +21,7 @@ def factorailSum(n):
 print(factorailSum(6))
 
 
-# #3 数字转换
+# 3 数字转换
 def transNum(s):
 	n=0
 	b=1
@@ -90,7 +90,7 @@ def isNarcNum(n):
 		flag=True
 	return flag
 
-# print(isNarcNum(153))
+print(isNarcNum(153))
 
 
 
